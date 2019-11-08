@@ -11,6 +11,6 @@ class BankAccount
   end
   
   def deposit(num)
-   self.deposit << @balance(num)
+   
  end
 end
