@@ -13,4 +13,8 @@ class BankAccount
   def deposit(num)
    self.balance += num
  end
+ 
+ def display_balance
+   
+ end
 end
